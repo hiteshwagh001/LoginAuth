@@ -1,4 +1,4 @@
-![Screenshot 2023-10-16 190314](https://github.com/hiteshwagh001/LoginAuth/assets/111413855/31dcba00-1b00-4109-9995-a90058a19914)Here's a simple README for your project:
+Here's a simple README for your project:
 
 # Login Authentication Web Application
 
