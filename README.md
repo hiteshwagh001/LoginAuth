@@ -47,11 +47,23 @@ Feel free to contribute to this project by opening issues or submitting pull req
 
 
 ![Screenshot 2023-10-16 190314](https://github.com/hiteshwagh001/LoginAuth/assets/111413855/2e39cf1c-6e24-4778-8129-50f3c006ba4a)
-![Screenshot 2023-10-16 190343](https://github.com/hiteshwagh001/LoginAuth/assets/111413855/8f0df2f7-38ca-4552-ae38-53a1df58a7e1)
+
+
 ![Screenshot (10)](https://github.com/hiteshwagh001/LoginAuth/assets/111413855/0a3b277b-2dee-435e-a72a-e8e848be3bad)
-![Screenshot (11)](https://github.com/hiteshwagh001/LoginAuth/assets/111413855/2f742deb-8146-49c0-a4bc-ce911d98c2eb)
-![Screenshot (12)](https://github.com/hiteshwagh001/LoginAuth/assets/111413855/34c651b6-41cd-49bb-b6ab-c316e04f6ffc)
+
+
 ![Screenshot (13)](https://github.com/hiteshwagh001/LoginAuth/assets/111413855/3f3d849d-d54c-4455-a3b8-bbedf65ce849)
+
+![Screenshot (11)](https://github.com/hiteshwagh001/LoginAuth/assets/111413855/2f742deb-8146-49c0-a4bc-ce911d98c2eb)
+
+![Screenshot 2023-10-16 190343](https://github.com/hiteshwagh001/LoginAuth/assets/111413855/8f0df2f7-38ca-4552-ae38-53a1df58a7e1)
+
+
+
+![Screenshot (12)](https://github.com/hiteshwagh001/LoginAuth/assets/111413855/34c651b6-41cd-49bb-b6ab-c316e04f6ffc)
+
+
+
 
 
 
