@@ -1,5 +1,3 @@
-Here's a simple README for your project:
-
 # Login Authentication Web Application
 
 This is a basic web application for user login and registration with authentication features. It allows users to register, log in, and view their profile page. Users can log out individually or log out from all devices.
